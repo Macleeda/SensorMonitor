@@ -194,7 +194,7 @@ namespace SensorMonitor
         }
 
         // ════════════════════════════════════════════
-        //  GDI+ 自绘波形（替换Chart控件，面试超级亮点）
+        //  GDI+ 自绘波形（替换Chart控件）
         // ════════════════════════════════════════════
         private void WavePanel_Paint(object sender, PaintEventArgs e)
         {
