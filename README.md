@@ -64,7 +64,7 @@ SensorMonitor/
 └── TcpServerHelper.cs      # TCP远程监控服务
 ```
 
-##描述
+## 描述
 
 **多通道温湿度数据采集与实时监控上位机** | C# WinForms | 独立开发
 - 基于C# WinForms开发，实现4通道传感器数据的实时采集、波形显示与SQLite持久化存储
